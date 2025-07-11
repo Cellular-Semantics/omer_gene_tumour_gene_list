@@ -14,3 +14,5 @@ Malignant | AC-gliosis-like | AC-gliosis-like 3 | ['LAMA2', 'AC012405.1',   'COL
 Malignant | AC-gliosis-like | AC-gliosis-like 4 | ['CST3', 'MTRNR2L12',   'SPP1', 'APOE', 'IGFBP7', 'AQP4', 'CHI3L1', 'CRYAB', 'CXCL14', 'VOPP1']
 
 Code and results in notebooks/experiment1
+
+General issue:  API queries are returning many fewer refs than chat.
