@@ -6,7 +6,7 @@ Sketch of planned workflows:
 <img width="1134" height="641" alt="image" src="https://github.com/user-attachments/assets/7878bf70-e508-4833-a241-ea055fd9db72" />
 
 
-Experiment 1:
+### Experiment 1:
 
 Paper: A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity https://www.biorxiv.org/content/10.1101/2025.05.13.653495v1 
 
