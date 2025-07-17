@@ -23,8 +23,8 @@ Code and results in notebooks/experiment1
 Outputs:
   
  - deepsearch_caroline: Review this first.  Deepsearch with improved referencing
- - deepsearch: deepsearch queries - refs unerliable and limited.
- -  pro - queries run without deepsearch.
+ - deepsearch: deepsearch queries - API settings => refs unreliable and limited.
+ -  pro - queries run without deepsearch.  Well referenced but likely to have nore hallucinations.
  -  PaperQA_Crow_Manual - manually added example of [PaperQA](https://platform.futurehouse.org/) Crow search.  Appears to be high quality and well referenced (including text extracts from papers). We may switch to this in future but more work needed to autoamte.
 
 Next steps: Run KG agent across results.
